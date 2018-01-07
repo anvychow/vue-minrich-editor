@@ -1,0 +1,17 @@
+{
+  "name": "vue-minrich-editor",
+  "version": "1.0.3",
+  "description": "A minimalistic rich text editor inspired by telegra.ph",
+  "main": "VueRichEditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "rich",
+    "text"
+  ],
+  "author": "lover-drive",
+  "license": "MIT"
+}
