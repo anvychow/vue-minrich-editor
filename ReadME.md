@@ -2,6 +2,7 @@
 A minimalistic text editor inspired by Medium.com and Telegra.ph.  
 
 ![Screenshot](https://i.imgur.com/xGxmdO7.jpg)
+[DEMO](https://lover-drive.github.io/vue-rich-editor/)
 
 ## Installation
 #### NPM
