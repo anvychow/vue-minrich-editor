@@ -142,7 +142,8 @@
           'opacity': 0,
           'left': this.helperStyle.left,
           'top': this.helperStyle.top,
-          'pointer-events': 'none'
+          'visibility': 'hidden',
+          'transition': 'visibility 0s 0.3s, opacity 0.3s'
         }
         this.cancelLinkInput()
       },
@@ -201,7 +202,11 @@
     transform:     translateY(-120%);
     transition:    opacity .3s;
     overflow:      hidden;
-    cursor:        pointer;
+    z-index: 10;
+  }
+
+  div.rich-editor-formatting-helper * {
+    pointer-events: inherit;
   }
 
   div.rich-editor-formatting-helper--controls {

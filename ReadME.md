@@ -1,8 +1,11 @@
 # vue-minrich-editor
-A minimalistic text editor inspired by Medium.com and Telegra.ph.  
+A minimalistic text editor inspired by Medium.com and Telegra.ph.
+- Mobile support
+- Image drag'n'drop and paste support  
+- Automatic YouTube and Vimeo embedding
 
 ![Screenshot](https://i.imgur.com/xGxmdO7.jpg)
-[DEMO](https://lover-drive.github.io/vue-minrich-editor/)
+[DEMO](https://lover-drive.github.io/vue-minrich-editor/) 
 
 ## Installation
 #### NPM
